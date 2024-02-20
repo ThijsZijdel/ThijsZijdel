@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://profile-readme-mu.vercel.app/api?username=thijszijdel&show_icons=true&theme=radical&hide=prs" alt="Thijs Zijdel's GitHub Stats">
+  <img src="https://profile-readme-mu.vercel.app/api?username=thijszijdel&show_icons=true&hide=prs,issues&bg_color=222222&text_color=ffffff" alt="Thijs Zijdel's GitHub Stats">
 </div>
 
 ### 👨🏻‍💼 About Me:
@@ -25,8 +25,9 @@ I thrive on the cutting edge of web development, specializing in:
 ![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=Next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=MySQL&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-222222?style=flat&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-tailwindcss-222222?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-222222?style=flat&logo=socket.io&logoColor=orange)
+![Tailwind](https://img.shields.io/badge/-Tailwind-222222?style=flat&logo=tailwindcss&logoColor=06B6D4)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=MongoDB&logoColor=47A248)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=2496ED)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-222222?style=flat&logo=Jenkins&logoColor=D24939)
@@ -35,7 +36,7 @@ I thrive on the cutting edge of web development, specializing in:
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-222222?style=flat&logo=DigitalOcean&logoColor=0080FF)
 
 <div align="center">
-  <img src="https://profile-readme-mu.vercel.app/api/top-langs/?username=thijszijdel&exclude_repo=Portfolio,HomePal&langs_count=12&layout=compact&bg_color=222222&text_color=ffffff" alt="Most Used Languages">
+  <img src="https://profile-readme-mu.vercel.app/api/top-langs/?username=thijszijdel&langs_count=10&layout=compact&bg_color=222222&text_color=ffffff" alt="Most Used Languages">
 </div>
 
 ### Feel free to reach out for collaborations or just a friendly chat! Let's build something amazing together.
