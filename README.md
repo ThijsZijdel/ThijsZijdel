@@ -1,8 +1,8 @@
-<h2 align="center">🚀 Thijs Zijdel | Full-Stack Developer & Innovator 🚀</h2>
+<h2 align="center">Thijs Zijdel | Full-Stack Developer & Innovator</h2>
 <p align="center">
   <a href="https://linkedin.com/in/thijszijdel"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="mailto:hello@sooonline.nl"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email Badge"></a>
-  <a href="https://sooonline.nl"><img src="https://img.shields.io/badge/-Visit%20My%20Website-0A0A0A?style=flat" alt="Website Badge"></a>
+  <a href="mailto:hello@sooonline.nl"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Minutemailer&logoColor=white" alt="Email Badge"></a>
+  <a href="https://sooonline.nl"><img src="https://img.shields.io/badge/-Visit%20SOO%20online-0A0A0A?style=flat" alt="Website Badge"></a>
 </p>
 
 <div align="center">
