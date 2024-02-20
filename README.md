@@ -49,8 +49,8 @@ I thrive on the cutting edge of web development, specializing in:
 
 <div align="center">
   <img src="https://profile-readme-mu.vercel.app/api/top-langs/?username=thijszijdel&langs_count=10&layout=compact&hide=javascript&bg_color=222222&text_color=ffffff&icon_color=39ff14&title_color=999999" alt="Most Used Languages">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thijszijdel&theme=dark&hide_border=true" alt="Github Streak">
+  
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=thijszijdel&theme=dark&hide_border=true" alt="Github Streak"> -->
   
 </div>
 
