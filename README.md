@@ -10,9 +10,7 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thijszijdel" alt="Thijs Zijdel's GitHub Stats">
-</div>
+
 ### 👨🏻‍💼 About Me:
 - 🛠 &nbsp; Building [Mosanic.io](https://mosanic.io), Your Web Platform for Growth.
 - 👨🏻‍💻 &nbsp; Founder of [SOO Online](https://sooonline.nl), Tailored Digital Solutions.
@@ -56,7 +54,8 @@ I thrive on the cutting edge of web development, specializing in:
 <br/>
 
 <div>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thijszijdel&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thijszijdel&theme=dark&hide_border=true&exclude_days=Sun%2CSat)]
   
 <div align="right">
 ### Feel free to reach out for collaborations or just a friendly chat! Let's build something amazing together.
