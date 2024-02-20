@@ -9,6 +9,10 @@
   <img src="https://profile-readme-mu.vercel.app/api?username=thijszijdel&show_icons=true&hide=prs,issues&bg_color=222222&text_color=ffffff&icon_color=39ff14&title_color=999999" alt="Thijs Zijdel's GitHub Stats">
 </div>
 
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thijszijdel" alt="Thijs Zijdel's GitHub Stats">
+</div>
 ### 👨🏻‍💼 About Me:
 - 🛠 &nbsp; Building [Mosanic.io](https://mosanic.io), Your Web Platform for Growth.
 - 👨🏻‍💻 &nbsp; Founder of [SOO Online](https://sooonline.nl), Tailored Digital Solutions.
@@ -49,4 +53,13 @@ I thrive on the cutting edge of web development, specializing in:
   <img src="https://profile-readme-mu.vercel.app/api/top-langs/?username=thijszijdel&langs_count=10&layout=compact&hide=javascript&bg_color=222222&text_color=ffffff&icon_color=39ff14&title_color=999999" alt="Most Used Languages">
 </div>
 
+<br/>
+
+<div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thijszijdel&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  
+<div align="right">
 ### Feel free to reach out for collaborations or just a friendly chat! Let's build something amazing together.
+</div>  
+
+</div>
