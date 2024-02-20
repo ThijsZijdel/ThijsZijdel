@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://profile-readme-mu.vercel.app/api?username=thijszijdel&show_icons=true&hide=prs,issues&bg_color=222222&text_color=ffffff&icon_color=39ff14&title_color=39ff14" alt="Thijs Zijdel's GitHub Stats">
+  <img src="https://profile-readme-mu.vercel.app/api?username=thijszijdel&show_icons=true&hide=prs,issues&bg_color=222222&text_color=ffffff&icon_color=39ff14&title_color=222222" alt="Thijs Zijdel's GitHub Stats">
 </div>
 
 ### 👨🏻‍💼 About Me:
@@ -36,7 +36,7 @@ I thrive on the cutting edge of web development, specializing in:
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-222222?style=flat&logo=DigitalOcean&logoColor=0080FF)
 
 <div align="center">
-  <img src="https://profile-readme-mu.vercel.app/api/top-langs/?username=thijszijdel&langs_count=10&layout=compact&hide=javascript&bg_color=222222&text_color=ffffff&icon_color=39ff14&title_color=39ff14" alt="Most Used Languages">
+  <img src="https://profile-readme-mu.vercel.app/api/top-langs/?username=thijszijdel&langs_count=10&layout=compact&hide=javascript&bg_color=222222&text_color=ffffff&icon_color=39ff14&title_color=222222" alt="Most Used Languages">
 </div>
 
 ### Feel free to reach out for collaborations or just a friendly chat! Let's build something amazing together.
