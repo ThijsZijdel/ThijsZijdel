@@ -2,7 +2,7 @@
 
 <div>
 	
-![ThijsZijdels's GitHub stats](https://profile-readme-mu.vercel.app/api?username=thijszijdel&show_icons=true&theme=transparent&hide=prs,issues)
+![ThijsZijdels's GitHub stats](https://profile-readme-mu.vercel.app/api?username=thijszijdel&show_icons=true&theme=transparent&hide=prs)
   
 ### About Me:
 
