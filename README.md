@@ -5,10 +5,11 @@
   <a href="https://sooonline.nl"><img src="https://img.shields.io/badge/-Visit%20SOO%20online-0A0A0A?style=flat" alt="Website Badge"></a>
 </p>
 
+<!-- 
 <div align="center">
   <img src="https://profile-readme-mu.vercel.app/api?username=thijszijdel&show_icons=true&hide=prs,issues&bg_color=222222&text_color=ffffff&icon_color=39ff14&title_color=999999" alt="Thijs Zijdel's GitHub Stats">
 </div>
-
+-->
 
 
 ### 👨🏻‍💼 About Me:
