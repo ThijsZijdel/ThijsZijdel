@@ -9,11 +9,6 @@
 </p>
 
 <p align="center">
-Full-Stack ⌁ Building Things on the Web
-/tɛis ˈzɛi.dəl/
-<p align="center">
-
-<p align="center">
   <a href="https://zijdel.com">
     <img src="https://img.shields.io/badge/Portfolio-zijdel.com-111111?style=flat-square" alt="Portfolio">
   </a>
