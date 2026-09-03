@@ -1,61 +1,114 @@
-<h2 align="center">Thijs Zijdel | Full-Stack Developer & Innovator</h2>
+<h1 align="center">Thijs Zijdel</h1>
+
 <p align="center">
-  <a href="https://linkedin.com/in/thijszijdel"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="mailto:hello@sooonline.nl"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Minutemailer&logoColor=white" alt="Email Badge"></a>
-  <a href="https://sooonline.nl"><img src="https://img.shields.io/badge/-Visit%20SOO%20online-0A0A0A?style=flat" alt="Website Badge"></a>
+  <strong>Senior Full-Stack Engineer · Product Builder · Founder</strong>
 </p>
 
-<!-- 
-<div align="center">
-  <img src="https://profile-readme-mu.vercel.app/api?username=thijszijdel&show_icons=true&hide=prs,issues&bg_color=222222&text_color=ffffff&icon_color=39ff14&title_color=999999" alt="Thijs Zijdel's GitHub Stats">
-</div>
--->
+<p align="center">
+  Building ambitious software from Amsterdam 🇳🇱
+</p>
 
+<p align="center">
+Full-Stack ⌁ Building Things on the Web
+/tɛis ˈzɛi.dəl/
+<p align="center">
 
-### 👨🏻‍💼 About Me:
-- 🛠 &nbsp; Building [Mosanic.io](https://mosanic.io), Your Web Platform for Growth.
-- 👨🏻‍💻 &nbsp; Founder of [SOO Online](https://sooonline.nl), Tailored Digital Solutions.
-- 🚀 &nbsp; Launched extensive projects, consistently exceeding client expectations.
-- 📚 &nbsp; Pursued Software Engineering, always eager to master new technologies.
-- 🤝 &nbsp; Keen on forging new partnerships? Feel free to [contact me](https://sooonline.nl).
+<p align="center">
+  <a href="https://zijdel.com">
+    <img src="https://img.shields.io/badge/Portfolio-zijdel.com-111111?style=flat-square" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/thijszijdel">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:thijs@zijdel.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hoi-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://mosanic.io">
+    <img src="https://img.shields.io/badge/Building-Mosanic-111111?style=flat-square" alt="Mosanic">
+  </a>
+</p>
 
-### 💼 Technologies:
-I thrive on the cutting edge of web development, specializing in:
+---
 
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=Next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=MySQL&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=MongoDB&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-222222?style=flat&logo=graphql&logoColor=E10098)
-![Redis](https://img.shields.io/badge/-Redis-222222?style=flat&logo=redis&logoColor=DC382D)
-![Socket.io](https://img.shields.io/badge/-Socket.io-222222?style=flat&logo=socket.io&logoColor=orange)
-![Tailwind](https://img.shields.io/badge/-Tailwind-222222?style=flat&logo=tailwindcss&logoColor=06B6D4)
-![Sass](https://img.shields.io/badge/-Sass-222222?style=flat&logo=sass&logoColor=CC6699)
-![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=2496ED)
-![Babel](https://img.shields.io/badge/-Babel-222222?style=flat&logo=babel&logoColor=F9DC3E)
-![WebSockets](https://img.shields.io/badge/-WebSockets-222222?style=flat&logo=websockets&logoColor=FFFFFF)
-![PWA](https://img.shields.io/badge/-PWA-222222?style=flat&logo=pwa&logoColor=5A0FC8)
-![Jenkins](https://img.shields.io/badge/-Jenkins-222222?style=flat&logo=Jenkins&logoColor=D24939)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-222222?style=flat&logo=GoogleCloud&logoColor=4285F4)
-![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-222222?style=flat&logo=AmazonAWS&logoColor=ff9900)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-222222?style=flat&logo=DigitalOcean&logoColor=0080FF)
-![GitLab](https://img.shields.io/badge/-GitLab-222222?style=flat&logo=gitlab&logoColor=FC6D26)
-![Vercel](https://img.shields.io/badge/-Vercel-222222?style=flat&logo=vercel&logoColor=000000)
-![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=figma&logoColor=F24E1E)
-![Sketch](https://img.shields.io/badge/-Sketch-222222?style=flat&logo=sketch&logoColor=F7B500)
+### Hoi, I'm Thijs 👋
 
-<div align="center">
-  <img src="https://profile-readme-mu.vercel.app/api/top-langs/?username=thijszijdel&langs_count=10&layout=compact&hide=javascript&bg_color=222222&text_color=ffffff&icon_color=39ff14&title_color=999999" alt="Most Used Languages">
-  
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=thijszijdel&theme=dark&hide_border=true" alt="Github Streak"> -->
-  
-</div>
+I'm a product-minded software engineer who enjoys turning complex systems into software that feels simple.
 
-<br/>
+I work across engineering, product development, and design. Over the years, I've contributed to globally used multi-tenant applications, Awwwards-recognized frontend experiences, SaaS infrastructure, visual editors, automation systems, and developer tooling.
 
+```ts
+const thijs = {
+  basedIn: "Amsterdam, NL",
+  role: "Senior Full-Stack Engineer",
+  currentlyAt: "Hedge",
+  focus: [
+    "Product engineering",
+    "Multi-tenant SaaS",
+    "Developer tooling",
+    "Agentic software",
+    "AI-native development",
+    "Thoughtful interfaces",
+  ],
+  building: {
+      mosanic: "Visual infrastructure for building on the web",
+      mosa: "Small, useful infrastructure for software and the internet",
+  },
+  currentlyExploring: ["Rust", "Swift", "Agentic infra"],
+};
+```
 
-### Feel free to reach out for collaborations or just a friendly chat! Let's build something amazing together.
+### What I care about
+
+- 🚀 Technically ambitious products that are genuinely useful
+- 🏗️ Maintainable systems designed to grow
+- ✨ Clear, thoughtful interfaces for complex capabilities
+- 🧰 Building the boring parts once instead of rebuilding them forever
+- 🤖 AI as an engineering collaborator, guided by craftsmanship
+- 🛠️ Taking ideas from rough concepts to production
+- 🤝 Working with people who care deeply about what they ship
+
+### What I'm working on
+
+- 🎬 **Full-time** — Web platforms, internal tools, and 🔐 infrastructure for video software.
+- 🧩 **[Mosanic](https://mosanic.io/)** — Visual platform for AI-native sites.
+- 🧪 **[Mosa](https://mosa.sh/)** — Dev tooling, experiments & infra.
+- ⚙️ **[SOO Online](https://sooonline.nl/)** — Independent studio, home of Mosanic.
+
+### Toolbox
+
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=FF2D20)
+![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=node.js&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-18181B?style=flat-square&logo=redis&logoColor=FF4438)
+![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-18181B?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+Also familiar with Vue, Nuxt, Astro, Google Cloud, and Figma. Currently exploring Rust and Swift.
+
+### Beyond the code
+
+Studied Software Engineering at the Amsterdam University of Applied Sciences — that gave me a strong technical foundation, but shipping real products taught me the most: making trade-offs, listening to users, and maintaining systems as they grow. Before Hedge I was product lead on various projects at Digital Natives, and I've been running my own studio, SOO Online, since 2019.
+
+I approach software as both an engineer and a founder—caring about the architecture underneath, the pixels on top, and whether the product deserves to exist.
+
+---
+
+<p align="center">
+  <strong>Building something interesting?</strong><br>
+  I'm always open to meeting thoughtful engineers, founders, designers, and future teammates.
+</p>
+
+<p align="center">
+  <a href="mailto:thijs@zijdel.com">Say hoi</a>
+  ·
+  <a href="https://linkedin.com/in/thijszijdel">LinkedIn</a>
+  ·
+  <a href="https://mosanic.io">Mosanic</a>
+  ·
+  <a href="https://mosa.sh">mosa.sh</a>
+</p>
