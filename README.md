@@ -27,9 +27,9 @@
 
 ### Hoi, I'm Thijs 👋
 
-I'm a product-minded software engineer who enjoys turning complex systems into software that feels simple.
+I build software across engineering, product and design. I like taking something complicated and making it feel simple to use.
 
-I work across engineering, product development, and design. Over the years, I've contributed to globally used multi-tenant applications, Awwwards-recognized frontend experiences, SaaS infrastructure, visual editors, automation systems, and developer tooling.
+I've worked on multi-tenant apps with users around the world, frontend work that won Awwwards recognition, SaaS infrastructure, visual editors, automation systems and developer tools.
 
 ```ts
 const thijs = {
@@ -41,26 +41,24 @@ const thijs = {
     "Multi-tenant SaaS",
     "Developer tooling",
     "Agentic software",
-    "AI-native development",
-    "Thoughtful interfaces",
+    "Interfaces",
   ],
   building: {
-      mosanic: "Visual infrastructure for building on the web",
-      mosa: "Small, useful infrastructure for software and the internet",
+    mosanic: "A visual platform for building websites",
+    mosa: "Small infrastructure tools for developers",
   },
-  currentlyExploring: ["Rust", "Swift", "Agentic infra"],
+  currentlyExploring: ["Rust", "Swift", "Agent infrastructure"],
 };
 ```
 
 ### What I care about
 
-- 🚀 Technically ambitious products that are genuinely useful
+- 🚀 Products that are hard to build and worth using
 - 🏗️ Maintainable systems designed to grow
 - ✨ Clear, thoughtful interfaces for complex capabilities
 - 🧰 Building the boring parts once instead of rebuilding them forever
-- 🤖 AI as an engineering collaborator, guided by craftsmanship
 - 🛠️ Taking ideas from rough concepts to production
-- 🤝 Working with people who care deeply about what they ship
+- 🤝 Working with people who care about what they ship
 
 ### What I'm working on
 
@@ -83,19 +81,21 @@ const thijs = {
 ![AWS](https://img.shields.io/badge/AWS-18181B?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-Also familiar with Vue, Nuxt, Astro, Google Cloud, and Figma. Currently exploring Rust and Swift.
+I've also worked with Vue, Nuxt, Astro, Google Cloud and Figma. Right now learning Rust and Swift.
 
 ### Beyond the code
 
-Studied Software Engineering at the Amsterdam University of Applied Sciences — that gave me a strong technical foundation, but shipping real products taught me the most: making trade-offs, listening to users, and maintaining systems as they grow. Before Hedge I was product lead on various projects at Digital Natives, and I've been running my own studio, SOO Online, since 2019.
+Studied Software Engineering at the Amsterdam University of Applied Sciences. That gave me the fundamentals. Shipping real products taught me more: making trade-offs, listening to users and keeping systems alive as they grow.
 
-I approach software as both an engineer and a founder—caring about the architecture underneath, the pixels on top, and whether the product deserves to exist.
+Before Hedge, I was product lead on several projects at Digital Natives. I've run my own studio, SOO Online, since 2019.
+
+Running a studio changed how I look at code. I still care about the architecture and the pixels. I also ask whether the product should exist at all, and I've killed a few ideas of my own because the answer was no.
 
 ---
 
 <p align="center">
   <strong>Building something interesting?</strong><br>
-  I'm always open to meeting thoughtful engineers, founders, designers, and future teammates.
+  I like meeting engineers, founders and designers, and people I might work with one day.
 </p>
 
 <p align="center">
