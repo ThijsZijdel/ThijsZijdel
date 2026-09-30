@@ -1,5 +1,3 @@
-<h1 align="center">Thijs Zijdel</h1>
-
 <p align="center">
   <a href="https://thijs.zijdel.com">🪪 zijdel.com</a> ·
   <a href="https://soo.solutions">🎧 soo.solutions</a> ·
